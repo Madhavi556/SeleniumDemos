@@ -1,0 +1,12 @@
+2019-09-25 12:22:04,701  INFO [main] Log4jdemo:15 - Launch browser
+2019-09-25 12:22:10,556  INFO [main] Log4jdemo:19 - URL Lauched
+2019-09-25 12:22:10,567  WARN [main] Log4jdemo:24 - check if title is correct
+2019-09-25 12:22:10,567  INFO [main] Log4jdemo:28 - Correct Title:Test case passed
+2019-09-25 12:45:20,945  INFO [main] Log4jdemo:15 - Launch browser
+2019-09-25 12:45:33,781  INFO [main] Log4jdemo:19 - URL Lauched
+2019-09-25 12:45:33,792  WARN [main] Log4jdemo:24 - check if title is correct
+2019-09-25 12:45:33,793  INFO [main] Log4jdemo:28 - Correct Title:Test case passed
+2019-09-25 12:46:17,257  INFO [main] Log4jdemo:15 - Launch browser
+2019-09-25 12:46:30,475  INFO [main] Log4jdemo:19 - URL Lauched
+2019-09-25 12:46:30,483  WARN [main] Log4jdemo:24 - check if title is correct
+2019-09-25 12:46:30,484 ERROR [main] Log4jdemo:29 - Incorrect title:Test case failed

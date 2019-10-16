@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/softwareforselenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/log4j.jar/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/jxl/jar_files/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seleniumlp10software/poi-bin-4.1.0-20190412/poi-4.1.0/apachejars/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
